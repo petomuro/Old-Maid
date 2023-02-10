@@ -1,5 +1,5 @@
 # Old Maid
-Simple Old Maid Console Game - Created just for 2 players yet.
+Simple Old Maid School Project created in C++. It's working only for 2 players.
 
 ![Example](https://github.com/petomuro/Old-Maid/blob/main/Example.png)
 
